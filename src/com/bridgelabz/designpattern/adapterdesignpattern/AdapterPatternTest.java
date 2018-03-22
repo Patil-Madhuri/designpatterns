@@ -6,7 +6,7 @@ public class AdapterPatternTest
 	{
 			
 			testClassAdapter();
-			System.out.println("====================================");
+			System.out.println("==================================== ");
 			testObjectAdapter();
 	}
 
