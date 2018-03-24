@@ -1,5 +1,10 @@
 package com.bridgelabz.designpattern.adapterdesignpattern;
-
+/******************************************************************************  
+ *  Purpose:Adapter design Pattern
+ * @author  Madhuri Chaudhari
+ *  @version 1.0
+ *  @since   20-03-2018
+ ******************************************************************************/
 public class AdapterPatternTest 
 {
 	public static void main(String[] args) 
