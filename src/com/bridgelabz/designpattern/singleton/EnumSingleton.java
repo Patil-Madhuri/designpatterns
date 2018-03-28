@@ -11,6 +11,6 @@ public enum EnumSingleton
 	
 	public static void dosomething()
 	{
-		
+		System.out.println("Hello...........");
 	}
 }
