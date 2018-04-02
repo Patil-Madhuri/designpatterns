@@ -38,4 +38,12 @@ public class ThreadSafeSigleton
 	    }
 	    return instance;
 	}
+	
+	/*public static synchronized ThreadSafeSigleton getInstance(){
+        if(instance == null){
+            instance = new ThreadSafeSigleton();
+        }
+        return instance;
+    }
+    */
 }
